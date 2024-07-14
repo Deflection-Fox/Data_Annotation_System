@@ -1,0 +1,15 @@
+{
+    "new_sample": [
+      {
+        "parent_id": 1,
+        "prompt": "这是一个测试样本",
+        "response": "这是一个测试回复"
+      },
+      {
+        "parent_id": 1,
+        "prompt": "这是另一个测试样本",
+        "response": "这是另一个测试回复"
+      }
+    ]
+  }
+  
